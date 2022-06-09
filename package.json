@@ -1,0 +1,23 @@
+{
+  "name": "testing-practice-aaa-tdd-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiboma2021/Testing-practice-AAA-TDD-JEST.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kiboma2021/Testing-practice-AAA-TDD-JEST/issues"
+  },
+  "homepage": "https://github.com/kiboma2021/Testing-practice-AAA-TDD-JEST#readme",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
