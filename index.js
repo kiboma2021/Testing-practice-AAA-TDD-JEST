@@ -1,7 +1,11 @@
 class newString {
   stringLength(string) {
     let strlength=string.length;
-    return strlength;
+    if (strlength > 0 || strlength <= 10) {
+      return True;
+    } else {
+      return False;
+    }
   }
 }
 
